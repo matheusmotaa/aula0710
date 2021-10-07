@@ -14,3 +14,11 @@ input {
 .input-group {
     margin: 10px 0;
 }
+
+.input-group label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    color: #393939;
+    cursor: pointer;
+}
