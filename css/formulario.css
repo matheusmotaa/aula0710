@@ -47,3 +47,9 @@ input {
   font-weight: bold;
   cursor: pointer;
 }
+
+.botao:hover{
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 6px;
+}
