@@ -10,7 +10,7 @@ body {
 <<<<<<< HEAD
 
 =======
->>>>>>> 09d3a5a76914586f4cb51b37aae4fba3c8808304
+
 input {
   box-sizing: border-box;
   outline: nome;
@@ -18,7 +18,7 @@ input {
 
 .input-group {
   margin: 10px 0;
-<<<<<<< HEAD
+
 =======
 input {
     box-sizing: border-box;
@@ -35,7 +35,7 @@ input {
     font-weight: bold;
     color: #393939;
     cursor: pointer;
->>>>>>> b52ba6761aca12205a165316bae26924c83e5abb
+
 }
 =======
 }
@@ -72,4 +72,4 @@ input {
   font-weight: bold;
   cursor: pointer;
 }
->>>>>>> 09d3a5a76914586f4cb51b37aae4fba3c8808304
+
