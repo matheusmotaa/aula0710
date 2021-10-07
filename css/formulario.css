@@ -6,3 +6,30 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14px;
 }
+<<<<<<< HEAD
+
+input {
+  box-sizing: border-box;
+  outline: nome;
+}
+
+.input-group {
+  margin: 10px 0;
+=======
+input {
+    box-sizing: border-box;
+    outline: nome;
+}
+
+.input-group {
+    margin: 10px 0;
+}
+
+.input-group label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    color: #393939;
+    cursor: pointer;
+>>>>>>> b52ba6761aca12205a165316bae26924c83e5abb
+}
