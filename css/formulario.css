@@ -73,3 +73,11 @@ input {
   cursor: pointer;
 }
 
+<<<<<<< HEAD
+=======
+.botao:hover{
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 6px;
+}
+>>>>>>> f6a355f99bd00b9d8bcbcec2621f041e9262b991
